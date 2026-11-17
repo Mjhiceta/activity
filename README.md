@@ -1,1 +1,1 @@
-# activity
+# Study Tips for Programming
